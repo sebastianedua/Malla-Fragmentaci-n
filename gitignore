@@ -1,0 +1,16 @@
+
+# Entornos/artefactos
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+.ipynb_checkpoints/
+dist/
+build/
+*.spec
+
+# Streamlit
+.streamlit/
